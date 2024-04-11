@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=R8 Old Footprint=tro vach 2w New Footprint=tro vach 1/2w
+Change component parameters: Designator = "R8" ("R8"); Footprint = "tro vach 2w"; UniqueID = "\TBBYWPJS" ("\TBBYWPJS")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 5% 1/2w 47k"; VariantName = "[No Variations]"
+Added Room: Name=Sheet1

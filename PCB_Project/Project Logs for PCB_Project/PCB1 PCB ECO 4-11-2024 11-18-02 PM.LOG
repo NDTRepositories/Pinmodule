@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=BAT Pin=BAT-1
+Removed Pin From Net: NetName=GND Pin=BAT-2
+Removed Pin From Net: NetName=NetD2_1 Pin=Input-2
+Change Component Footprint: Designator=Input Old Footprint=Header 2P DC 2.54 New Footprint=Con 2 KF301 5.08
+Change Component Footprint: Designator=BAT Old Footprint=XH2.54M-2 New Footprint=CON 2 HB9500
+Change Component Comment : Designator=BAT Old Comment=BAT New Comment=CON 2 HB9500
+Change Component Comment : Designator=Input Old Comment=Input New Comment=CON 2 KF301
+Change component parameters: Designator = "BAT" ("BAT"); Footprint = "XH2.54M-2"; UniqueID = "\QUTMEPJV" ("\QUTMEPJV")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH002054"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 HB9500-2P 9.5MM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Input" ("Input"); Footprint = "Header 2P DC 2.54"; UniqueID = "\VHQJFWVD" ("\VHQJFWVD")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH000987"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 KF301-2P 5.08MM Xanh Duong"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BAT-1
+Added Pin To Net: NetName=BAT Pin=BAT-2
+Added Pin To Net: NetName=NetD2_1 Pin=Input-1
+Added Pin To Net: NetName=NetInput_2 Pin=Input-2
+Added Pin To Net: NetName=NetInput_2 Pin=R6-1
+Added Pin To Net: NetName=NetInput_2 Pin=U1-2
+Added Net: Name=NetInput_2
+Added Room: Name=Sheet1
